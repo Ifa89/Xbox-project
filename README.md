@@ -1,6 +1,6 @@
 # Xbox Gaming Website — School Project
 
-An immersive, single-page Xbox fan website built with pure HTML, CSS, and JavaScript.  
+An single-page Xbox fan website built with pure HTML, CSS, and JavaScript.  
 Inspired by [Porter Robinson's website](https://porterrobinson.com) aesthetic combined with [Xbox.com](https://www.xbox.com) design language.
 
 ## Live Demo
